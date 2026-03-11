@@ -1,5 +1,16 @@
 # socks-proxy-agent
 
+## 10.0.0
+
+### Major Changes
+
+- 7d12b51: Set minimum Node.js version to 20
+
+### Patch Changes
+
+- Updated dependencies [7d12b51]
+  - agent-base@9.0.0
+
 ## 9.0.0
 
 ### Major Changes

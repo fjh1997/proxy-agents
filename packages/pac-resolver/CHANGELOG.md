@@ -1,5 +1,16 @@
 # pac-resolver
 
+## 9.0.0
+
+### Major Changes
+
+- 7d12b51: Set minimum Node.js version to 20
+
+### Patch Changes
+
+- Updated dependencies [7d12b51]
+  - degenerator@7.0.0
+
 ## 8.0.0
 
 ### Major Changes

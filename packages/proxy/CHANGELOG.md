@@ -1,5 +1,11 @@
 # proxy
 
+## 4.0.0
+
+### Major Changes
+
+- 7d12b51: Set minimum Node.js version to 20
+
 ## 3.0.0
 
 ### Major Changes

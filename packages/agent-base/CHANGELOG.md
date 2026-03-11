@@ -1,5 +1,11 @@
 # agent-base
 
+## 9.0.0
+
+### Major Changes
+
+- 7d12b51: Set minimum Node.js version to 20
+
 ## 8.0.0
 
 ### Major Changes
